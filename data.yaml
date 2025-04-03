@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 8
+names: ['car', 'face hiding', 'gun', 'human', 'human in hurry', 'human_brakingdoor', 'human_lockunlocking', 'weapon']
+
+roboflow:
+  workspace: jansty-lewis-xtvyi
+  project: thief-detection-36pqh
+  version: 5
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/jansty-lewis-xtvyi/thief-detection-36pqh/dataset/5
