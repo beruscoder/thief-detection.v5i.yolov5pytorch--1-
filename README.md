@@ -28,6 +28,9 @@ Suspicion	701	0.676	0.725	0.788	0.491
 ![Screenshot from 2025-04-05 19-25-46](https://github.com/user-attachments/assets/da7d77ef-ec0b-435a-af60-fdb4dfdc2f1a)
 ![Screenshot from 2025-04-05 19-25-20](https://github.com/user-attachments/assets/07800169-5412-494e-a678-8c71df060468)
 
+🎥 Sample Video
+https://drive.google.com/file/d/1qVZdUn74Nf9CLjGyT0ZeQY5BPin6PTLM/view?usp=sharing
+
 🚀 How to Run
 Clone the repository:
 
