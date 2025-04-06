@@ -24,8 +24,9 @@ Class	Images	Precision	Recall	mAP50	mAP50-95
 Human	853	0.914	0.816	0.882	0.59
 Suspicion	701	0.676	0.725	0.788	0.491
 🖼️ Sample Detection Images
-![Screenshot from 2025-04-05 19-25-20](https://github.com/user-attachments/assets/463cf47f-aae6-4e95-96a9-b064f40205d0)
-![Screenshot from 2025-04-05 19-27-19](https://github.com/user-attachments/assets/fc5a16db-9d2a-4ae7-90c1-b2f89a07b3a1)
+![Screenshot from 2025-04-05 19-27-19](https://github.com/user-attachments/assets/989f5246-6dac-41ae-9211-24b8eb59b4b8)
+![Screenshot from 2025-04-05 19-25-46](https://github.com/user-attachments/assets/da7d77ef-ec0b-435a-af60-fdb4dfdc2f1a)
+![Screenshot from 2025-04-05 19-25-20](https://github.com/user-attachments/assets/07800169-5412-494e-a678-8c71df060468)
 
 🚀 How to Run
 Clone the repository:
